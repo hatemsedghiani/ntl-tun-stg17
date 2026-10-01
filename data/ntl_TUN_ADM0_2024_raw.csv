@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+74400859B135783422298,Tunisia,154578,752128,582540,117532,3.76859,0.774523,0,1.09898,161.335,31762.3,0.205478,2396.12,0.0155011,1.1678e+07,1.16102e+07,9.87342e+06,1.73673e+06,0.850413,75.5481,0.0498834,0.937673,0.595261,5.78653,1,1,1
